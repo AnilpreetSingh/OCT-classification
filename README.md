@@ -14,6 +14,8 @@ We developed a CNN based deep neural model with 98% accuracy to classify these i
 
 ![image](https://github.com/AnilpreetSingh/OCT-classification/assets/90110629/55e89680-296f-46cc-b7db-2f6b507bfbc2)
 ![image](https://github.com/AnilpreetSingh/OCT-classification/assets/90110629/057aea89-8b5a-42b9-8bad-5939f0d27a41)
+![image](https://github.com/AnilpreetSingh/OCT-classification/assets/90110629/5e6e1c45-6c4f-442c-9e3e-d467cab37a2c)
+
 
 
 
